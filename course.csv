@@ -1,0 +1,245 @@
+FACULTY,WAEC1,WAEC2,WAEC3,WAEC4,WAEC5,UTME1,UTME2,UTME3,COURSE,SCHOOL
+Administration,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,ACCOUNTING,AAUA
+Administration,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ACCOUNTING,ABSU
+Administration,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ACCOUNTING,ABU
+Administration,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ACCOUNTING,ABUJA
+Administration,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,ACCOUNTING,COOU
+Administration,English,Mathematics,Economics,Geography,Business,Mathematics,Economics,Geography,BANKING-FINANCE,AAUA
+Administration,English,Mathematics,Economics,Geography,Business,Mathematics,Economics,Government,BANKING-FINANCE,AUN
+Administration,English,Mathematics,Economics,Geography,Business,Mathematics,Economics,Government,BANKING-FINANCE,CARITAS
+Administration,English,Mathematics,Economics,Commerce,Business,Mathematics,Economics,Government,BANKING-FINANCE,DELSU
+Administration,English,Mathematics,Economics,Commerce,Business,Mathematics,Economics,Government,BANKING-FINANCE,EBSU
+Administration,English,Mathematics,Economics,Accounting,Business,Mathematics,Economics,Government,BANKING-FINANCE,ELIZADE
+Administration,English,Mathematics,Economics,Commerce,Geography,"Mathematics,",Economics,Geography,ACTUARIAL-SCIENCE,BENIN
+Administration,English,Mathematics,Economics,Commerce,Geography,"Mathematics,",Economics,Geography,ACTUARIAL-SCIENCE,CRAWFORD
+Administration,English,Mathematics,Economics,Commerce,Government,"Mathematics,",Economics,Geography,ACTUARIAL-SCIENCE,EDWIN CLARK
+Administration,English,Mathematics,Economics,Commerce,Government,"Mathematics,",Economics,Government,ACTUARIAL-SCIENCE,JOS
+Administration,English,Mathematics,Economics,Commerce,Government,"Mathematics,",Economics,Government,ACTUARIAL-SCIENCE,KWASU
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-MANAGEMENT,AUN
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-MANAGEMENT,BSU
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-MANAGEMENT,EBSU
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-MANAGEMENT,EPU
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-MANAGEMENT,EVANGEL
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-ADMINISTRATION,AAUA
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-ADMINISTRATION,ABSU
+Administration,English,Mathematics,Economics,Accounting,Government,"Mathematics,",Economics,Government,BUSINESS-ADMINISTRATION,ABU
+Administration,English,Mathematics,Economics,Accounting,Accounting,"Mathematics,",Economics,Government,BUSINESS-ADMINISTRATION,ABUJA
+Administration,English,Mathematics,Economics,Accounting,Accounting,"Mathematics,",Economics,Government,BUSINESS-ADMINISTRATION,ADSU
+AGRICULTURE,English,Chemistry,Biology,Geography,Economics,Chemistry,Agric,Physics,AGRICULTURE,AAUA
+AGRICULTURE,English,Chemistry,Agric,Economics,Mathematics,Chemistry,Biology,Mathematics,AGRICULTURE,ABU
+AGRICULTURE,English,Chemistry,Agric,Economics,Mathematics,Chemistry,Agric,Physics,AGRICULTURE,ABUAD
+AGRICULTURE,English,Chemistry,Agric,Economics,Mathematics,Chemistry,Biology,Mathematics,AGRICULTURE,BABCOCK
+AGRICULTURE,English,Chemistry,Mathematics,Biology,Economics,Chemistry,Agric,Mathematics,AGRICULTURE,ILORIN
+AGRICULTURE,English,Chemistry,Mathematics,Biology,Economics,Chemistry,Biology,Mathematics,AGRICULTURE,COOU
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Agric,Geography,FISHERIES,BENIN
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Geography,Chemistry,Biology,Geography,FISHERIES,CALABAR
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Geography,Chemistry,Biology,Geography,FISHERIES,CRUTECH
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Biology,Geography,FISHERIES,DELSU
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Agric,Geography,FISHERIES,KSUSTA
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Agric,Geography,FISHERIES,LAPAI
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Geography,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,AAUA
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Geography,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,ABU
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Geography,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,BAYERO
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,BOWEN
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Biology,Economics,FISHERIES-AQUACULTURE,FED-GASHUA
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Geography,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,AAUA
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Geography,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,ABU
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Geography,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,BAYERO
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Agric,Geography,FISHERIES-AQUACULTURE,BOWEN
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Biology,Economics,FISHERIES-AQUACULTURE,FED-GASHUA
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Geography,Chemistry,Biology,Mathematics,AGRICULTURAL-ECONOMICS,BENIN
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Physics,Chemistry,Biology,Physics,AGRICULTURAL-ECONOMICS,OAU
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Economics,Chemistry,Biology,Mathematics,AGRICULTURAL-ECONOMICS,UNN
+AGRICULTURE,English,Chemistry,Agric,Mathematics,Geography,Chemistry,Biology,Mathematics,AGRICULTURAL-ECONOMICS,DELSU
+AGRICULTURE,English,Chemistry,Biology,Mathematics,Physics,Chemistry,Biology,Physics,AGRICULTURAL-ECONOMICS,IBADAN
+ARTS-HUMANITIES,English,Arabic,IRS,Literature,History,Arabic,Literature,Government,ARABIC-STUDIES,ABU
+ARTS-HUMANITIES,English,Arabic,IRS,Literature,History,Arabic,Literature,Government,ARABIC-STUDIES,ABUJA
+ARTS-HUMANITIES,English,Arabic,IRS,Literature,History,Arabic,Literature,Government,ARABIC-STUDIES,AL-HIKMAH
+ARTS-HUMANITIES,English,Arabic,IRS,Literature,History,Arabic,Literature,Government,ARABIC-STUDIES,YOSU
+ARTS-HUMANITIES,English,Arabic,IRS,Literature,History,Arabic,Literature,Government,ARABIC-STUDIES,BASU
+ARTS-HUMANITIES,English,Geography,Economics,History,Government,Literature,History,Geography,ARCHAEOLOGY,ABU
+ARTS-HUMANITIES,English,Geography,Economics,History,Government,Literature,History,Geography,ARCHAEOLOGY,IBADAN
+ARTS-HUMANITIES,English,Geography,Economics,History,Government,Literature,History,Geography,ARCHAEOLOGY,JOS
+ARTS-HUMANITIES,English,Geography,Economics,History,Government,Literature,History,Geography,ARCHAEOLOGY,UNN
+ARTS-HUMANITIES,English,CRK,History,Government,Geography,Literature,CRK,History,CRS,ABUJA
+ARTS-HUMANITIES,English,CRK,History,Government,Geography,Literature,CRK,History,CRS,ANCHOR-UNI
+ARTS-HUMANITIES,English,CRK,History,Government,Geography,Literature,CRK,History,CRS,BABCOCK
+ARTS-HUMANITIES,English,CRK,History,Government,Geography,Literature,CRK,History,CRS,BASU
+ARTS-HUMANITIES,English,CRK,History,Government,Geography,Literature,CRK,History,CRS,BIU
+ARTS-HUMANITIES,English,Fine Art,History,Literature,Geography,Fine Art,History,Economics,FINE-APPLIED-ARTS,DELSU
+ARTS-HUMANITIES,English,Fine Art,History,Literature,Geography,Fine Art,History,Economics,FINE-APPLIED-ARTS,BENIN
+ARTS-HUMANITIES,English,Fine Art,History,Literature,Geography,Fine Art,History,Economics,FINE-APPLIED-ARTS,FED-NDUFU
+ARTS-HUMANITIES,English,Fine Art,History,Literature,Geography,Fine Art,History,Literature,FINE-APPLIED-ARTS,UNN
+ARTS-HUMANITIES,English,Fine Art,History,Literature,Geography,Fine Art,History,Literature,FINE-APPLIED-ARTS,NDU
+ARTS-HUMANITIES,English,History,Fine Art,Economics,Government,Literature,History,Fine Art,DRAMATIC-PERFORMING-ARTS,ABU
+ARTS-HUMANITIES,English,History,Fine Art,Economics,Government,Literature,Economics,Government,DRAMATIC-PERFORMING-ARTS,ABUJA
+ARTS-HUMANITIES,English,History,Fine Art,Economics,Government,Literature,History,Fine Art,DRAMATIC-PERFORMING-ARTS,KASU
+ARTS-HUMANITIES,English,History,Fine Art,Economics,Government,Literature,Economics,Government,DRAMATIC-PERFORMING-ARTS,OAU
+ARTS-HUMANITIES,English,Literature,History,Government,Fine Art,Literature,History,Fine Art,DRAMATIC-PERFORMING-ARTS,PHC
+EDUCATION,English,Mathematics,Economics,History,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION,BENIN
+EDUCATION,English,Mathematics,Economics,History,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION,EBSU
+EDUCATION,English,Mathematics,Economics,History,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION,IMSU
+EDUCATION,English,Mathematics,Economics,Literature,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION,JOS
+EDUCATION,English,Mathematics,Economics,Literature,History,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION,LAGOS
+EDUCATION,English,Mathematics,Economics,History,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION-PLANNING,BABCOCK
+EDUCATION,English,Mathematics,Economics,History,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION-PLANNING,CRUTECH
+EDUCATION,English,Mathematics,Economics,Literature,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION-PLANNING,EDOBUDU
+EDUCATION,English,Mathematics,Economics,Literature,History,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION-PLANNING,EDZAR
+EDUCATION,English,Mathematics,Economics,History,Geography,Literature,History,Geography,EDUCATIONAL-ADMINISTRATION-PLANNING,FC-PANKSHIN
+EDUCATION,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,EDUCATION-ACCOUNTANCY,AAUA
+EDUCATION,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,EDUCATION-ACCOUNTANCY,AOCOE
+EDUCATION,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,EDUCATION-ACCOUNTANCY,ABSU
+EDUCATION,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,EDUCATION-ACCOUNTANCY,EACOE
+EDUCATION,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,EDUCATION-ACCOUNTANCY,IMSU
+EDUCATION,English,Mathematics,TD,Physics,Chemistry,TD,Mathematics,Chemistry,VOCATIONAL-TECHNICAL-EDUCATION,AAU
+EDUCATION,English,Mathematics,TD,Physics,Geography,TD,Mathematics,Geography,VOCATIONAL-TECHNICAL-EDUCATION,BSU
+EDUCATION,English,Mathematics,TD,Physics,Agric,TD,Mathematics,Agric,VOCATIONAL-TECHNICAL-EDUCATION,ESUTECH
+EDUCATION,English,Mathematics,TD,Physics,Chemistry,TD,Mathematics,Chemistry,VOCATIONAL-TECHNICAL-EDUCATION,EKSU
+EDUCATION,English,Mathematics,TD,Physics,Geography,TD,Physics,Geography,VOCATIONAL-TECHNICAL-EDUCATION,UNIOSUN
+EDUCATION,English,Mathematics,Chemistry,Biology,Agric,Chemistry,Biology,Physics,EDUCATION-CHEMISTRY,AAU
+EDUCATION,English,Mathematics,Chemistry,Agric,Physics,Chemistry,Mathematics,Biology,EDUCATION-CHEMISTRY,AAUA
+EDUCATION,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Biology,Physics,EDUCATION-CHEMISTRY,ABSU
+EDUCATION,English,Mathematics,Chemistry,Biology,Agric,Chemistry,Mathematics,Biology,EDUCATION-CHEMISTRY,ABU
+EDUCATION,English,Mathematics,Chemistry,Agric,Physics,Chemistry,Biology,Physics,EDUCATION-CHEMISTRY,ABUJA
+EDUCATION,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Mathematics,Biology,EDUCATION-CHEMISTRY,ADEYEMI
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-ENGINEERING,ABU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-ENGINEERING,ABUAD
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-ENGINEERING,AKSU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-ENGINEERING,AUE
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-ENGINEERING,BAUCHI
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-ENGINEERING,BAYERO
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-BIORESOURCES-ENGINEERING,MINNA
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-BIORESOURCES-ENGINEERING,TSUJ
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-BIORESOURCES-ENGINEERING,UMUDIKE
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-BIORESOURCES-ENGINEERING,UNIZIK
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,Agric,Mathematics,Chemistry,Physics,AGRICULTURAL-BIORESOURCES-ENGINEERING,UNN
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,BUILDING-TECHNOLOGY,ABSU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,BUILDING-TECHNOLOGY,BAUCHI
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,BUILDING-TECHNOLOGY,BELLS
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,BUILDING-TECHNOLOGY,COVENANT
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,BUILDING-TECHNOLOGY,FED-KEBBI
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CHEMICAL-ENGINEERING,ABU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CHEMICAL-ENGINEERING,ABUAD
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CHEMICAL-ENGINEERING,ABUJA
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CHEMICAL-ENGINEERING,AKSU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CHEMICAL-ENGINEERING,COOU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CIVIL-ENGINEERING,AAU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CIVIL-ENGINEERING,ABUAD
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,CIVIL-ENGINEERING,ABU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CIVIL-ENGINEERING,ABUJA
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Chemistry,Physics,CIVIL-ENGINEERING,AKSU
+ENGINEERING-ENVIRONMENTAL-TECHNOLOGY,English,Mathematics,Chemistry,Physics,TD,Mathematics,Chemistry,Physics,CIVIL-ENGINEERING,COOU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,CIVIL-LAW,ABU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,CIVIL-LAW,CALABAR
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,CIVIL-LAW,EBSU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,CIVIL-LAW,MAIDUGURI
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,CIVIL-LAW,OOU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,CIVIL-LAW,UNIZIK
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,LAW,AAUA
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,LAW,AAU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,LAW,ABUAD
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,LAW,AL-HIKMAH
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,LAW,COOU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,LAW,AJAYI
+LAW,English,Literature,Islamic Studies,Government,History,Islamic Studies,Government,Literature,ISLAMIC-SHARIA-LAW,KSU
+LAW,English,Literature,Islamic Studies,Government,History,Islamic Studies,Economics,Literature,ISLAMIC-SHARIA-LAW,MAIDUGURI
+LAW,English,Literature,Islamic Studies,Government,History,Islamic Studies,Economics,Literature,ISLAMIC-SHARIA-LAW,ABU
+LAW,English,Literature,Islamic Studies,Government,History,Islamic Studies,Economics,Literature,COMMON-ISLAMIC-LAW,BAYERO
+LAW,English,Literature,Islamic Studies,Government,History,Islamic Studies,Economics,Literature,COMMON-ISLAMIC-LAW,ILORIN
+LAW,English,Literature,Islamic Studies,Government,History,Islamic Studies,Economics,Literature,COMMON-ISLAMIC-LAW,UDU
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,PUBLIC-PRIVATE-INTERNATIONAL-LAW,MAIDUGURI
+LAW,English,Literature,Mathematics,Government,History,Government,History,Literature,PUBLIC-PRIVATE-INTERNATIONAL-LAW,AAUA
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,ANATOMY,AAU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,ANATOMY,ABUAD
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,ANATOMY,ABU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,ANATOMY,COOU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,ANATOMY,BABCOCK
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,ANATOMY,BAYERO
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,CALABAR
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,IBADAN
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,IGBINEDION
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,JOS
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,LAUTECH
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICAL-LABORATORY-SCIENCE,AAU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICAL-LABORATORY-SCIENCE,ABUAD
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICAL-LABORATORY-SCIENCE,ABSU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICAL-LABORATORY-SCIENCE,ACHIEVERS
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICAL-LABORATORY-SCIENCE,BABCOCK
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,NURSING-SCIENCE,AAU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,NURSING-SCIENCE,ABSU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,NURSING-SCIENCE,ABU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,NURSING-SCIENCE,ABUAD
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,NURSING-SCIENCE,ACHIEVERS
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICINE-SURGERY,AAU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICINE-SURGERY,ABSU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICINE-SURGERY,ABU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICINE-SURGERY,ABUAD
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,MEDICINE-SURGERY,ABUJA
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHARMACY,ABU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHARMACY,BAYERO
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHARMACY,BENIN
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHARMACY,DELSU
+MEDICAL-PHARMACEUTICAL-HEALTH-SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHARMACY,GSU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,AAU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Mathematics,Chemistry,Biology,BIOCHEMISTRY,AAUA
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,ABSU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Mathematics,Chemistry,Biology,BIOCHEMISTRY,ABU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,BIOCHEMISTRY,ABUAD
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHYSICS,AAU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Mathematics,PHYSICS,ABU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHYSICS,ABUJA
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Mathematics,PHYSICS,ABUAD
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Biology,PHYSICS,ACHIEVERS
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Chemistry,Mathematics,PHYSICS,ADSU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Mathematics,Chemistry,INDUSTRIAL-PHYSICS,COOU
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Physics,Mathematics,Biology,INDUSTRIAL-PHYSICS,EBSU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Mathematics,Chemistry,INDUSTRIAL-PHYSICS,ESUTECH
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Physics,Mathematics,Biology,INDUSTRIAL-PHYSICS,GOUU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Physics,Mathematics,Chemistry,INDUSTRIAL-PHYSICS,IMSU
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Physics,Economics,INDUSTRIAL-MATHEMATICS,BENIN
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Physics,Chemistry,INDUSTRIAL-MATHEMATICS,BIU
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Physics,Biology,INDUSTRIAL-MATHEMATICS,COVENANT
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Physics,Economics,INDUSTRIAL-MATHEMATICS,DELSU
+SCIENCES,English,Mathematics,Chemistry,Physics,FMathematics,Mathematics,Physics,Chemistry,INDUSTRIAL-MATHEMATICS,EBSU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Biology,Mathematics,INDUSTRIAL-CHEMISTRY,AAU
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Mathematics,Physics,INDUSTRIAL-CHEMISTRY,AAUA
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Physics,Biology,INDUSTRIAL-CHEMISTRY,ABUAD
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Biology,Mathematics,INDUSTRIAL-CHEMISTRY,ACHIEVERS
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Mathematics,Physics,INDUSTRIAL-CHEMISTRY,AJAYI
+SCIENCES,English,Mathematics,Chemistry,Physics,Biology,Chemistry,Physics,Biology,INDUSTRIAL-CHEMISTRY,AL-HIKMAH
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,INDUSTRIAL-CHEMISTRY,ACHIEVERS
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ACCOUNTANCY,ADSU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ACCOUNTANCY,AJAYI
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ACCOUNTANCY,BINGHAM
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,ACCOUNTANCY,BIU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,ACCOUNTANCY,COVENANT
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BUSINESS-ADMINISTRATION,AAU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BUSINESS-ADMINISTRATION,ABUAD
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BUSINESS-ADMINISTRATION,ACHIEVERS
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,BUSINESS-ADMINISTRATION,ADSU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,BUSINESS-ADMINISTRATION,BABCOCK
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BUSINESS-ADMINISTRATION,YOSU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,PUBLIC-ADMINISTRATION,ABUAD
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,PUBLIC-ADMINISTRATION,AKSU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,PUBLIC-ADMINISTRATION,AUE
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,PUBLIC-ADMINISTRATION,BABCOCK
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,PUBLIC-ADMINISTRATION,BAYERO
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,PUBLIC-ADMINISTRATION,BENIN
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,MARKETING,ABUAD
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,MARKETING,AKSU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,MARKETING,AL-HIKMAH
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,MARKETING,BABCOCK
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,MARKETING,BAZE
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,MARKETING,BENIN
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,BANKING-FINANCE,AAU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BANKING-FINANCE,ABUAD
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BANKING-FINANCE,ABUJA
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,BANKING-FINANCE,ACHIEVERS
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,BANKING-FINANCE,ARTHUR-JARVIS
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,BANKING-FINANCE,AUGUSTINE
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Geography,Mathematics,Economics,Government,ECONOMICS,AAU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ECONOMICS,AAUA
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Geography,Mathematics,Economics,Government,ECONOMICS,ABU
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Goeography,ECONOMICS,ABUAD
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Accounting,ECONOMICS,ABUJA
+SOCIAL / MANAGEMENT SCIENCES,English,Mathematics,Economics,Business,Commerce,Mathematics,Economics,Government,ECONOMICS,ACHIEVERS

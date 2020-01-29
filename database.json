@@ -1,0 +1,281 @@
+[{
+		"UTME":["Mathematics","Economics","Accounting"],
+		"SCHOOL":["AAUA"],
+		"COURSE":"Accounting",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Government"],
+		"SCHOOL":["ABSU","ABU","ABUJA"],
+		"COURSE":"Accounting",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Geography"],
+		"SCHOOL":["COOU"],
+		"COURSE":"Accounting",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Geography"],
+		"SCHOOL":["AAUA","AUN","CARITAS"],
+		"COURSE":"Banking and Finance",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Government"],
+		"SCHOOL":["DELSU","EBSU","ELIZADE"],
+		"COURSE":"Banking and Finance",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Geography"],
+		"SCHOOL":["BENIN","CRAWFORD","EDWIN CLARK"],
+		"COURSE":"Actuarial Science",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Government"],
+		"SCHOOL":["JOS","KWASU"],
+		"COURSE":"Actuarial Science",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Government"],
+		"SCHOOL":["AUN","BSU","EVANGEL","EBSU","EPU"],
+		"COURSE":"Business Management",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Economics","Government"],
+		"SCHOOL":["AAUA","ABSU","ABU","ABUJA","ADSU"],
+		"COURSE":"Business Administration",
+		"FACULTY":"Administration"
+	},{
+		"UTME":["Mathematics","Chemistry","Biology"],
+		"SCHOOL":["ABU","BABCOCK","COOU"],
+		"COURSE":"Agriculture",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Agricultural Science","Chemistry","Physics"],
+		"SCHOOL":["AAUA"],
+		"COURSE":"Agriculture",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Agricultural Science","Chemistry","Mathematics"],
+		"SCHOOL":["ILORIN"],
+		"COURSE":"Agriculture",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Agricultural Science","Chemistry","Geography"],
+		"SCHOOL":["AAUA","ABU","BAYERO","BOWEN"],
+		"COURSE":"Fisheries and Aquaculture",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Economics","Chemistry","Biology"],
+		"SCHOOL":["FED-GASHUA"],
+		"COURSE":"Fisheries and Aquaculture",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Mathematics","Chemistry","Biology"],
+		"SCHOOL":["BENIN","DELSU","UNN"],
+		"COURSE":"Agricultural Economics",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Physics","Chemistry","Biology"],
+		"SCHOOL":["IBADAN","OAU"],
+		"COURSE":"Agricultural Economics",
+		"FACULTY":"Agriculture"
+	},{
+		"UTME":["Arabic","Literature in English","Government"],
+		"SCHOOL":["ABU","ABUJA","AL-HIKMAH","YOSU","BASU"],
+		"COURSE":"Arabic Studies",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["History","Literature in English","Geography"],
+		"SCHOOL":["ABU","IBADAN","JOS","UNN"],
+		"COURSE":"Archaeology",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["CRK","Literature in English","History"],
+		"SCHOOL":["BABCOCK","ABUJA","ANCHOR-UNI","BIU","BASU"],
+		"COURSE":"Christian Religious Studies",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["Fine Arts","Economics","History"],
+		"SCHOOL":["DELSU","BENIN","FED-NDUFU"],
+		"COURSE":"Fine (and Applied) Arts",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["Fine Arts","Literature in English","History"],
+		"SCHOOL":["UNN","NDU"],
+		"COURSE":"Fine (and Applied) Arts",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["Fine Arts","Literature in English","History"],
+		"SCHOOL":["KASU","PHC"],
+		"COURSE":"Dramatic/Performing Arts",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["History","Literature in English","Government"],
+		"SCHOOL":["ABUJA","OAU"],
+		"COURSE":"Dramatic/Performing Arts",
+		"FACULTY":"Arts"
+	},{
+		"UTME":["History","Literature in English","Geography"],
+		"SCHOOL":["BENIN","EBSU","IMSU","JOS","LAGOS"],
+		"COURSE":"Educational Administration",
+		"FACULTY":"Education"
+	},{
+		"UTME":["History","Literature in English","Geography"],
+		"SCHOOL":["BABCOCK","CRUTECH","EDOBUDU","EDZAR","FC-PANKSHIN"],
+		"COURSE":"Educational Administration and Planning",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Mathematics","Economics","Accounting"],
+		"SCHOOL":["AAUA","IMSU"],
+		"COURSE":"Educational and Accountancy",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Mathematics","Economics","Geography"],
+		"SCHOOL":["ABSU","AOCOE","EACOE"],
+		"COURSE":"Educational and Accountancy",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Mathematics","Technical Drawing","Geography"],
+		"SCHOOL":["BSU","AAU","ESUTECH"],
+		"COURSE":"Vocational and Technical Education",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Physics","Technical Drawing","Geography"],
+		"SCHOOL":["EKSU","UNIOSUN"],
+		"COURSE":"Vocational and Technical Education",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Chemistry","Biology","Physics"],
+		"SCHOOL":["ABSU","AAU","ABUJA"],
+		"COURSE":"Education and Chemistry",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Chemistry","Biology","Mathematics"],
+		"SCHOOL":["AAUA","ADEYEMI","ABU"],
+		"COURSE":"Education and Chemistry",
+		"FACULTY":"Education"
+	},{
+		"UTME":["Chemistry","Mathematics","Physics"],
+		"SCHOOL":["ABU","ABUAD","AKSU","AUE","BAUCHI","BAYERO"],
+		"COURSE":"Agricultural Engineering",
+		"FACULTY":"ENGINEERING/ENVIRONMENTAL/TECHNOLOGY"
+	},{
+		"UTME":["Chemistry","Mathematics","Physics"],
+		"SCHOOL":["ABSU","BAUCHI","BELLS","COVENANT","FED-KEBBI"],
+		"COURSE":"Building Technology",
+		"FACULTY":"ENGINEERING/ENVIRONMENTAL/TECHNOLOGY"
+	},{
+		"UTME":["Chemistry","Mathematics","Physics"],
+		"SCHOOL":["ABU","ABUAD","ABUJA","AKSU","COOU"],
+		"COURSE":"Chemical Engineering",
+		"FACULTY":"ENGINEERING/ENVIRONMENTAL/TECHNOLOGY"
+	},{
+		"UTME":["Chemistry","Mathematics","Physics"],
+		"SCHOOL":["ABU","ABUAD","ABUJA","AKSU","COOU"],
+		"COURSE":"Civil Engineering",
+		"FACULTY":"ENGINEERING/ENVIRONMENTAL/TECHNOLOGY"
+	},{
+		"UTME":["Government","History","Literature in English"],
+		"SCHOOL":["ABU","CALABAR","EBSU","MAIDUGURI","OOU","UNIZIK"],
+		"COURSE":"Civil Law",
+		"FACULTY":"LAW"
+	},{
+		"UTME":["Government","History","Literature in English"],
+		"SCHOOL":["AAUA","AAU","ABUAD","AL-HIKMAH","COOU","OAU"],
+		"COURSE":"Law",
+		"FACULTY":"LAW"
+	},{
+		"UTME":["Islamic Studies","Economics","Literature in English"],
+		"SCHOOL":["KSU","MAIDUGURI","ABU"],
+		"COURSE":"Islamic/Sharia Law",
+		"FACULTY":"LAW"
+	},{
+		"UTME":["Islamic Studies","Economics","Literature in English"],
+		"SCHOOL":["BAYERO","ILORIN","UDU"],
+		"COURSE":"Common and Islamic Law",
+		"FACULTY":"LAW"
+	},{
+		"UTME":["Islamic Studies","Economics","Literature in English"],
+		"SCHOOL":["BAYERO","ILORIN","UDU"],
+		"COURSE":"Public and Private International Law",
+		"FACULTY":"LAW"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["BAYERO","AAU","ABU","ABUAD","COOU","BABCOCK"],
+		"COURSE":"Anatomy",
+		"FACULTY":"MEDICAL/PHARMACEUTICAL/HEALTH SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["CALABAR","IBADAN","IGBINEDION","JOS","LAUTECH"],
+		"COURSE":"Biochemistry",
+		"FACULTY":"MEDICAL/PHARMACEUTICAL/HEALTH SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["AAU","ABSU","ABUAD","ACHIEVERS","BABCOCK"],
+		"COURSE":"Medical Laboratory Science",
+		"FACULTY":"MEDICAL/PHARMACEUTICAL/HEALTH SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["AAU","ABSU","ABUAD","ACHIEVERS","ABU","BABCOCK"],
+		"COURSE":"Nursing/Nursing Science",
+		"FACULTY":"MEDICAL/PHARMACEUTICAL/HEALTH SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["OAU","ABSU","ABUAD","ACHIEVERS","ABU","BABCOCK"],
+		"COURSE":"Medicine and Surgery",
+		"FACULTY":"MEDICAL/PHARMACEUTICAL/HEALTH SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["OAU","BENIN","BAYERO","ACHIEVERS","ABU","DELSU"],
+		"COURSE":"Pharmacy",
+		"FACULTY":"MEDICAL/PHARMACEUTICAL/HEALTH SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["AAU","ABUJA","ACHIEVERS"],
+		"COURSE":"Physics",
+		"FACULTY":"SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Mathematics"],
+		"SCHOOL":["COOU","EBSU","ESUTECH","IMSU","GOOU"],
+		"COURSE":"Industrial Physics",
+		"FACULTY":"SCIENCES"
+	},{
+		"UTME":["Chemistry","Further Mathematics","Mathematics"],
+		"SCHOOL":["BENIN","BIU","COVENANT","DELSU","EBSU"],
+		"COURSE":"Industrial Mathematics",
+		"FACULTY":"SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Mathematics"],
+		"SCHOOL":["AAUA","AJAYI","ACHIEVERS"],
+		"COURSE":"Industrial Chemistry",
+		"FACULTY":"SCIENCES"
+	},{
+		"UTME":["Chemistry","Physics","Biology"],
+		"SCHOOL":["ABUAD","AL-HIKMAH","AAU"],
+		"COURSE":"Industrial Chemistry",
+		"FACULTY":"SCIENCES"
+	},{
+		"UTME":["Economics","Government","Mathematics"],
+		"SCHOOL":["AAU","ABUAD","ACHIEVERS","ADSU","BABCOCK"],
+		"COURSE":"Business Administration",
+		"FACULTY":"SOCIAL/MANAGEMENT SCIENCES"
+	},{
+		"UTME":["Economics","Government","Mathematics"],
+		"SCHOOL":["AKSU","ABUAD","BENIN","BAYERO","BABCOCK"],
+		"COURSE":"Public Administration",
+		"FACULTY":"SOCIAL/MANAGEMENT SCIENCES"
+	},{
+		"UTME":["Economics","Government","Mathematics"],
+		"SCHOOL":["AKSU","AL-HIKMAH","BENIN","BAZE","BABCOCK"],
+		"COURSE":"Marketing",
+		"FACULTY":"SOCIAL/MANAGEMENT SCIENCES"
+	},{
+		"UTME":["Economics","Government","Mathematics"],
+		"SCHOOL":["AAU","ABUAD","ABUJA","ACHIEVERS","AUGUSTINE"],
+		"COURSE":"Banking and Finance",
+		"FACULTY":"SOCIAL/MANAGEMENT SCIENCES"
+	},{
+		"UTME":["Economics","Government","Mathematics"],
+		"SCHOOL":["AAU","ABUAD","BENIN","BAYERO","BABCOCK","ABUJA"],
+		"COURSE":"Economics",
+		"FACULTY":"SOCIAL/MANAGEMENT SCIENCES"
+	}]
